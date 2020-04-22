@@ -21,5 +21,8 @@ int main()
     int x;
     cin>>x;
     cout<<x<< endl;
+    int y;
+    cin>>y;
+    cout<<y;
     return 0;
 }
