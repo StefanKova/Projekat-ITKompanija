@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1587570286 source:c:\users\stefaaman\programiranje\projekat\it kompanija\main.cpp
+	<iostream>
+	"Kompanija.hpp"
+	"Kancelarije.hpp"
+	"Radnici.hpp"
+	"Timovi.hpp"
+	"Projekti.hpp"
+	"SoftverskiAlati.hpp"
+	"Oprema.hpp"
+	"Klijenti.hpp"
+	"Prihodi.hpp"
+	"Rashodi.hpp"
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\kompanija.hpp
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\kancelarije.hpp
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\radnici.hpp
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\timovi.hpp
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\projekti.hpp
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\softverskialati.hpp
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\oprema.hpp
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\klijenti.hpp
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\prihodi.hpp
+
+1587570208 c:\users\stefaaman\programiranje\projekat\it kompanija\rashodi.hpp
+
