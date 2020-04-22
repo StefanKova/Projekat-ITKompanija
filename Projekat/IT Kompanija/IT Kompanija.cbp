@@ -32,6 +32,16 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Kancelarije.hpp" />
+		<Unit filename="Klijenti.hpp" />
+		<Unit filename="Kompanija.hpp" />
+		<Unit filename="Oprema.hpp" />
+		<Unit filename="Prihodi.hpp" />
+		<Unit filename="Projekti.hpp" />
+		<Unit filename="Radnici.hpp" />
+		<Unit filename="Rashodi.hpp" />
+		<Unit filename="SoftverskiAlati.hpp" />
+		<Unit filename="Timovi.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
